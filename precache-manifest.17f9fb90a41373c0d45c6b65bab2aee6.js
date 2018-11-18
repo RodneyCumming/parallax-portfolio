@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "58e707bef763fc89815a60a49c40c8eb",
-    "url": "/static/media/resumeSix.58e707be.png"
+    "revision": "9dd36a2e3703f1152b48719a437c030e",
+    "url": "/static/media/resume.9dd36a2e.pdf"
   },
   {
-    "revision": "f7129589616e7dafa61b",
-    "url": "/static/css/main.209f9197.chunk.css"
+    "revision": "ac8547d52c2cd4ebec4b",
+    "url": "/static/css/main.e7bf8d75.chunk.css"
   },
   {
-    "revision": "1ec91569a7ffd72b74c6",
-    "url": "/static/js/1.1ec91569.chunk.js"
+    "revision": "07717ccf812ccc5389e6",
+    "url": "/static/js/1.07717ccf.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/static/media/logo.ca229513.svg"
   },
   {
-    "revision": "9cd04089414e33881ad51eaaf10d2522",
-    "url": "/static/media/cloud.9cd04089.svg"
+    "revision": "bd617fb4cfda0bef7683964800884c5e",
+    "url": "/static/media/resume.bd617fb4.png"
   },
   {
-    "revision": "b1bde58cbf9eb12bb89eabba6f50cb2b",
-    "url": "/static/media/resume.b1bde58c.png"
+    "revision": "9cd04089414e33881ad51eaaf10d2522",
+    "url": "/static/media/cloud.9cd04089.svg"
   },
   {
     "revision": "c6dde47a2f87dc8aeeaf2185c3a675f8",
@@ -80,16 +80,8 @@ self.__precacheManifest = [
     "url": "/static/media/typing.8f178b62.svg"
   },
   {
-    "revision": "9dd36a2e3703f1152b48719a437c030e",
-    "url": "/static/media/resume.9dd36a2e.pdf"
-  },
-  {
-    "revision": "f7129589616e7dafa61b",
-    "url": "/static/js/main.f7129589.chunk.js"
-  },
-  {
-    "revision": "b4f42ce76eecee4a8f33f4291f75fba7",
-    "url": "/static/media/resumeSixteen.b4f42ce7.png"
+    "revision": "ac8547d52c2cd4ebec4b",
+    "url": "/static/js/main.ac8547d5.chunk.js"
   },
   {
     "revision": "5a1a5947d5311e6f59ee978ba38179eb",
@@ -168,7 +160,7 @@ self.__precacheManifest = [
     "url": "/static/media/bg.ac9c269a.svg"
   },
   {
-    "revision": "844d67acf40ba24dd5f08d08ca6b2f44",
+    "revision": "6193281d570bcaa51145994dfd570707",
     "url": "/index.html"
   }
 ];
