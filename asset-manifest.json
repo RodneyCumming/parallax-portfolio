@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.e7bf8d75.chunk.css",
-  "main.js": "/static/js/main.ac8547d5.chunk.js",
-  "main.js.map": "/static/js/main.ac8547d5.chunk.js.map",
+  "main.js": "/static/js/main.f3fe3a63.chunk.js",
+  "main.js.map": "/static/js/main.f3fe3a63.chunk.js.map",
   "static/js/1.07717ccf.chunk.js": "/static/js/1.07717ccf.chunk.js",
   "static/js/1.07717ccf.chunk.js.map": "/static/js/1.07717ccf.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -22,7 +22,7 @@
   "static/media/snippets.svg": "/static/media/snippets.51b77866.svg",
   "static/media/todo.svg": "/static/media/todo.f17d110d.svg",
   "static/media/typing.svg": "/static/media/typing.8f178b62.svg",
-  "static/media/resume.pdf": "/static/media/resume.9dd36a2e.pdf",
+  "static/media/resume.pdf": "/static/media/resume.1f991acd.pdf",
   "static/media/css3.svg": "/static/media/css3.5a1a5947.svg",
   "static/media/express.svg": "/static/media/express.23d81d61.svg",
   "static/media/figma.svg": "/static/media/figma.0804e31e.svg",
@@ -44,6 +44,6 @@
   "static/media/popup.css": "/static/media/bg.ac9c269a.svg",
   "static/css/main.e7bf8d75.chunk.css.map": "/static/css/main.e7bf8d75.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.17f9fb90a41373c0d45c6b65bab2aee6.js": "/precache-manifest.17f9fb90a41373c0d45c6b65bab2aee6.js",
+  "precache-manifest.c5cdd0bece2ca49c394eabe10ebbf7cc.js": "/precache-manifest.c5cdd0bece2ca49c394eabe10ebbf7cc.js",
   "service-worker.js": "/service-worker.js"
 }
